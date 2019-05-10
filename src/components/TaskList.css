@@ -1,0 +1,13 @@
+.tasks_list {
+    list-style: none;
+    font-size: 1.5rem;
+    padding-left: 0;
+    width: 100%;
+    text-align: left;
+}
+.tasks_list-item {
+    padding: 10px;
+}
+.tasks_list-item:nth-of-type(2n) {
+    background-color: rgba(45, 166, 14, 0.5);
+}

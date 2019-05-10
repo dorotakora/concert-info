@@ -1,0 +1,60 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  margin: 10% auto;
+  width: 50vw;
+  border: 1px solid rgba(45, 166, 14, 0.5);
+  border-radius: 5px;
+}
+.app_title {
+  text-align: center;
+}
+.app_buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.app_buttons-add,
+.app_buttons-remove,
+.app_buttons-clear {
+  font-size: 1.5rem;
+  width: 150px;
+  margin: auto 10px;
+  border: solid 1px #000;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  color: #fff;
+  outline: none;
+}
+.app_buttons-remove,
+.app_buttons-clear {
+  background-color: #aa1907;
+}
+.app_buttons-remove:hover,
+.app_buttons-clear:hover {
+  color: rgb(170, 10, 32);
+  font-weight: bold;
+  border-color: currentColor;
+  background-color: white;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(170, 10, 32, 0.5),
+  0 0 0 1.5px rgba(170, 10, 32, 0.5);
+}
+.app_buttons-add {
+  background-color: #2da60e;
+}
+.app_buttons-add:hover {
+  color:  rgb(45, 166, 14);
+  font-weight: bold;
+  border-color: currentColor;
+  background-color: white;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(45, 166, 14, 0.5),
+  0 0 0 1.5px rgba(45, 166, 14, 0.5);
+}
+
