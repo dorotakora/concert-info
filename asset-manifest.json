@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/todo_react_app/static/css/main.581cbc96.chunk.css",
-    "main.js": "/todo_react_app/static/js/main.ac34f6cd.chunk.js",
-    "main.js.map": "/todo_react_app/static/js/main.ac34f6cd.chunk.js.map",
+    "main.css": "/todo_react_app/static/css/main.17daa711.chunk.css",
+    "main.js": "/todo_react_app/static/js/main.8d5e7234.chunk.js",
+    "main.js.map": "/todo_react_app/static/js/main.8d5e7234.chunk.js.map",
     "runtime~main.js": "/todo_react_app/static/js/runtime~main.c26e3788.js",
     "runtime~main.js.map": "/todo_react_app/static/js/runtime~main.c26e3788.js.map",
-    "static/js/2.164617b5.chunk.js": "/todo_react_app/static/js/2.164617b5.chunk.js",
-    "static/js/2.164617b5.chunk.js.map": "/todo_react_app/static/js/2.164617b5.chunk.js.map",
+    "static/css/2.2b526ff3.chunk.css": "/todo_react_app/static/css/2.2b526ff3.chunk.css",
+    "static/js/2.9b02c464.chunk.js": "/todo_react_app/static/js/2.9b02c464.chunk.js",
+    "static/js/2.9b02c464.chunk.js.map": "/todo_react_app/static/js/2.9b02c464.chunk.js.map",
     "index.html": "/todo_react_app/index.html",
-    "precache-manifest.f9e094cc631055296fcc7c9e64304a1f.js": "/todo_react_app/precache-manifest.f9e094cc631055296fcc7c9e64304a1f.js",
+    "precache-manifest.c9b9e0ea4b1b6ffa14a0935018a3c87a.js": "/todo_react_app/precache-manifest.c9b9e0ea4b1b6ffa14a0935018a3c87a.js",
     "service-worker.js": "/todo_react_app/service-worker.js",
-    "static/css/main.581cbc96.chunk.css.map": "/todo_react_app/static/css/main.581cbc96.chunk.css.map"
+    "static/css/2.2b526ff3.chunk.css.map": "/todo_react_app/static/css/2.2b526ff3.chunk.css.map",
+    "static/css/main.17daa711.chunk.css.map": "/todo_react_app/static/css/main.17daa711.chunk.css.map",
+    "static/media/slick-theme.css": "/todo_react_app/static/media/slick.f97e3bbf.svg",
+    "static/media/slide_one.jpg": "/todo_react_app/static/media/slide_one.9ec748cb.jpg",
+    "static/media/slide_three.jpg": "/todo_react_app/static/media/slide_three.8a8753ec.jpg",
+    "static/media/slide_two.jpg": "/todo_react_app/static/media/slide_two.a4094047.jpg"
   }
 }
