@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo_react_app/static/css/main.581cbc96.chunk.css",
-    "main.js": "/todo_react_app/static/js/main.3ea33194.chunk.js",
-    "main.js.map": "/todo_react_app/static/js/main.3ea33194.chunk.js.map",
-    "runtime~main.js": "/todo_react_app/static/js/runtime~main.c26e3788.js",
-    "runtime~main.js.map": "/todo_react_app/static/js/runtime~main.c26e3788.js.map",
-    "static/js/2.164617b5.chunk.js": "/todo_react_app/static/js/2.164617b5.chunk.js",
-    "static/js/2.164617b5.chunk.js.map": "/todo_react_app/static/js/2.164617b5.chunk.js.map",
-    "index.html": "/todo_react_app/index.html",
-    "precache-manifest.568c2a6c7cda45297e10893d33fdeacd.js": "/todo_react_app/precache-manifest.568c2a6c7cda45297e10893d33fdeacd.js",
-    "service-worker.js": "/todo_react_app/service-worker.js",
-    "static/css/main.581cbc96.chunk.css.map": "/todo_react_app/static/css/main.581cbc96.chunk.css.map"
+    "main.css": "/concert/static/css/main.581cbc96.chunk.css",
+    "main.js": "/concert/static/js/main.6c662bf2.chunk.js",
+    "main.js.map": "/concert/static/js/main.6c662bf2.chunk.js.map",
+    "runtime~main.js": "/concert/static/js/runtime~main.1b37ec86.js",
+    "runtime~main.js.map": "/concert/static/js/runtime~main.1b37ec86.js.map",
+    "static/js/2.164617b5.chunk.js": "/concert/static/js/2.164617b5.chunk.js",
+    "static/js/2.164617b5.chunk.js.map": "/concert/static/js/2.164617b5.chunk.js.map",
+    "index.html": "/concert/index.html",
+    "precache-manifest.f269640fcbd607ffcac110f1a14206bf.js": "/concert/precache-manifest.f269640fcbd607ffcac110f1a14206bf.js",
+    "service-worker.js": "/concert/service-worker.js",
+    "static/css/main.581cbc96.chunk.css.map": "/concert/static/css/main.581cbc96.chunk.css.map"
   }
 }
