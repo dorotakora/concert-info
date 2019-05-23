@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/todo_react_app/static/css/main.17daa711.chunk.css",
-    "main.js": "/todo_react_app/static/js/main.8d5e7234.chunk.js",
-    "main.js.map": "/todo_react_app/static/js/main.8d5e7234.chunk.js.map",
-    "runtime~main.js": "/todo_react_app/static/js/runtime~main.c26e3788.js",
-    "runtime~main.js.map": "/todo_react_app/static/js/runtime~main.c26e3788.js.map",
-    "static/css/2.2b526ff3.chunk.css": "/todo_react_app/static/css/2.2b526ff3.chunk.css",
-    "static/js/2.9b02c464.chunk.js": "/todo_react_app/static/js/2.9b02c464.chunk.js",
-    "static/js/2.9b02c464.chunk.js.map": "/todo_react_app/static/js/2.9b02c464.chunk.js.map",
-    "index.html": "/todo_react_app/index.html",
-    "precache-manifest.c9b9e0ea4b1b6ffa14a0935018a3c87a.js": "/todo_react_app/precache-manifest.c9b9e0ea4b1b6ffa14a0935018a3c87a.js",
-    "service-worker.js": "/todo_react_app/service-worker.js",
-    "static/css/2.2b526ff3.chunk.css.map": "/todo_react_app/static/css/2.2b526ff3.chunk.css.map",
-    "static/css/main.17daa711.chunk.css.map": "/todo_react_app/static/css/main.17daa711.chunk.css.map",
-    "static/media/slick-theme.css": "/todo_react_app/static/media/slick.f97e3bbf.svg",
-    "static/media/slide_one.jpg": "/todo_react_app/static/media/slide_one.9ec748cb.jpg",
-    "static/media/slide_three.jpg": "/todo_react_app/static/media/slide_three.8a8753ec.jpg",
-    "static/media/slide_two.jpg": "/todo_react_app/static/media/slide_two.a4094047.jpg"
+    "main.css": "/concert-info/static/css/main.17daa711.chunk.css",
+    "main.js": "/concert-info/static/js/main.8d5e7234.chunk.js",
+    "main.js.map": "/concert-info/static/js/main.8d5e7234.chunk.js.map",
+    "runtime~main.js": "/concert-info/static/js/runtime~main.1fcf4429.js",
+    "runtime~main.js.map": "/concert-info/static/js/runtime~main.1fcf4429.js.map",
+    "static/css/2.ced11e6d.chunk.css": "/concert-info/static/css/2.ced11e6d.chunk.css",
+    "static/js/2.9b02c464.chunk.js": "/concert-info/static/js/2.9b02c464.chunk.js",
+    "static/js/2.9b02c464.chunk.js.map": "/concert-info/static/js/2.9b02c464.chunk.js.map",
+    "index.html": "/concert-info/index.html",
+    "precache-manifest.69b116b6d01b845378c3a660907a97fe.js": "/concert-info/precache-manifest.69b116b6d01b845378c3a660907a97fe.js",
+    "service-worker.js": "/concert-info/service-worker.js",
+    "static/css/2.ced11e6d.chunk.css.map": "/concert-info/static/css/2.ced11e6d.chunk.css.map",
+    "static/css/main.17daa711.chunk.css.map": "/concert-info/static/css/main.17daa711.chunk.css.map",
+    "static/media/slick-theme.css": "/concert-info/static/media/slick.f97e3bbf.svg",
+    "static/media/slide_one.jpg": "/concert-info/static/media/slide_one.9ec748cb.jpg",
+    "static/media/slide_three.jpg": "/concert-info/static/media/slide_three.8a8753ec.jpg",
+    "static/media/slide_two.jpg": "/concert-info/static/media/slide_two.a4094047.jpg"
   }
 }
