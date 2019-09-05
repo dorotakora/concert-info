@@ -19,7 +19,7 @@ const VenueNfo = () => {
                                              background: `url(${icon_calendar})`
                                          }}/>
                                     <div className={'vn_title'}>Data i miejsce</div>
-                                    <div className={'vn_desc'}>12 lipiec 2019 godzina 20:00</div>
+                                    <div className={'vn_desc'}>12 lipiec 2022 godzina 20:00</div>
 
                                 </div>
                             </div>
