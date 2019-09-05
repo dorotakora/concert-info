@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/concert-info/static/css/main.17daa711.chunk.css",
-    "main.js": "/concert-info/static/js/main.8d5e7234.chunk.js",
-    "main.js.map": "/concert-info/static/js/main.8d5e7234.chunk.js.map",
+    "main.js": "/concert-info/static/js/main.7c944889.chunk.js",
+    "main.js.map": "/concert-info/static/js/main.7c944889.chunk.js.map",
     "runtime~main.js": "/concert-info/static/js/runtime~main.1fcf4429.js",
     "runtime~main.js.map": "/concert-info/static/js/runtime~main.1fcf4429.js.map",
     "static/css/2.ced11e6d.chunk.css": "/concert-info/static/css/2.ced11e6d.chunk.css",
     "static/js/2.9b02c464.chunk.js": "/concert-info/static/js/2.9b02c464.chunk.js",
     "static/js/2.9b02c464.chunk.js.map": "/concert-info/static/js/2.9b02c464.chunk.js.map",
     "index.html": "/concert-info/index.html",
-    "precache-manifest.69b116b6d01b845378c3a660907a97fe.js": "/concert-info/precache-manifest.69b116b6d01b845378c3a660907a97fe.js",
+    "precache-manifest.df8f8681eb5b15dc2d989532087017f3.js": "/concert-info/precache-manifest.df8f8681eb5b15dc2d989532087017f3.js",
     "service-worker.js": "/concert-info/service-worker.js",
     "static/css/2.ced11e6d.chunk.css.map": "/concert-info/static/css/2.ced11e6d.chunk.css.map",
     "static/css/main.17daa711.chunk.css.map": "/concert-info/static/css/main.17daa711.chunk.css.map",
